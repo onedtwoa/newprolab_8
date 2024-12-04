@@ -336,4 +336,4 @@ FROM (
 ## 5. Дашборд
 
 Используем подготовленные данные для анализа с помощью Datalens: 
-[-CLICK-](https://datalens.yandex.cloud/h1g14q77080w4)
+[-CLICK-](https://datalens.yandex/h1g14q77080w4)
